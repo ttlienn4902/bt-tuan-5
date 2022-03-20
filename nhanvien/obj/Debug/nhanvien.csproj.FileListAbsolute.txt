@@ -1,0 +1,8 @@
+C:\Users\nguye\OneDrive\cslt2\nhanvien\obj\Debug\nhanvien.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\nhanvien\obj\Debug\nhanvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\cslt2\nhanvien\obj\Debug\nhanvien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\nhanvien\bin\Debug\nhanvien.exe.config
+C:\Users\nguye\OneDrive\cslt2\nhanvien\bin\Debug\nhanvien.exe
+C:\Users\nguye\OneDrive\cslt2\nhanvien\bin\Debug\nhanvien.pdb
+C:\Users\nguye\OneDrive\cslt2\nhanvien\obj\Debug\nhanvien.exe
+C:\Users\nguye\OneDrive\cslt2\nhanvien\obj\Debug\nhanvien.pdb
